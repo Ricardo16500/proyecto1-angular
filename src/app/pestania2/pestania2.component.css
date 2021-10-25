@@ -1,0 +1,21 @@
+#img{
+  width: 45%;
+  height: 45%;
+  text-align: center;
+}
+h5{
+  font-size: 30px;
+  font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Rubik', sans-serif;
+}
+p{
+  font-size: 25px;
+  font-family: 'Balsamiq Sans', cursive;
+  font-family: 'Rubik', sans-serif;
+}
+h1{
+  font-size: 35px;
+  font-family: 'Balsamiq Sans', cursive;
+  font-family: 'Rubik', sans-serif;
+  color: green;
+}
